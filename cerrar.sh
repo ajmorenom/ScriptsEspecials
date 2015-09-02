@@ -5,5 +5,3 @@ do
 	killall -q w3m
 	sleep 5
 done
-
-
